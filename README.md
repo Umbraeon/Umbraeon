@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Opa! Eu sou o Gabriel Almeida
 
-<!--
-**Umbraeon/Umbraeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estudando desenvolvimento web. Tenho uma boa base de HTML e estou aprendendo CSS pra criar páginas bonitas e funcionais. Estou me preparando para freelas e projetos reais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 O que estou aprendendo agora:
+- Estrutura de páginas com **HTML5**
+- Estilização com **CSS3 (display, flexbox, responsividade)**
+- **Boas práticas de código** e organização
+- Ferramentas como **Git + GitHub**
+
+---
+
+### 🚧 Projetos em andamento:
+| Projeto | Descrição | Link |
+|--------|-----------|------|
+| Landing page para ONG | Site institucional com foco em apresentar a causa, atrair apoiadores e facilitar contato com a equipe | *em breve* |
+| Meu Portfólio | Portfólio pessoal com meus projetos | *em breve* |
+
+---
+
+### 📫 Onde me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/umbraeon/)
+- Email: **gabriel.almeida.dev1998@hotmail.com** 
+
+---
+
+> 💬 Quer uma landing page simples pro seu negócio? Me chama! Tô fazendo projetos pra montar meu portfólio.
